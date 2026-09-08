@@ -1,0 +1,2 @@
+# GapTwin-Sensor-Optional-Digital-Twin-for-Assembly-Line-Bottleneck-Defect-Prediction
+GapTwin is a digital twin for assembly lines with mixed sensor coverage. It uses Statistical Process Control for instrumented stations and infers health at unsensored ones via neighbor-timing patterns. It generates confidence-scored alerts and per-vehicle quality-risk scores, shown on role-based Floor Supervisor and Plant Manager dashboards.
